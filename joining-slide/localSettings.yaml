@@ -1,0 +1,7 @@
+onlyOneBackUp: 1
+defaultIndent: "    "
+indentAfterItems:
+    itemize: 0
+    enumerate: 0
+    description: 0
+    list: 0
