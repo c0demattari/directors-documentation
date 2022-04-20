@@ -7,7 +7,7 @@
     - 課題活動団体構成員名簿（3.31時点）
 ### 4月
 - 生協学生委員会新入生歓迎企画
-- [入部手続き](Joining.md)
+- [入部手続き](JoiningDescription.md)
 - [チュートリアル](Tutorial.md)
 - [新歓BBQ](WelcomeBBQ.md)
 ### 5月
