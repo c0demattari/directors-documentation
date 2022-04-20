@@ -63,12 +63,16 @@
 ---
 ### チュートリアル
 5月（もしくは6月）までは、
-##### Processing
+#### □Processing
 Processing をやろう
-環境構築
-[Qiitaの記事](https://qiita.com/fztkm/items/2de7e6066a1d2f0a2d8c)
+- Processingとは
+  - ビジュアルデザインを作るためのプログラミング言語とその開発環境のことです。Javaをベースとしていて、簡単にグラフィックを描くことができます。単純なコマンドラインアプリケーションとは異なり、視覚的にプログラミングを楽しむことができるので、初心者の方にオススメだと思います。
+  
+[環境構築-Qiitaの記事](https://qiita.com/fztkm/items/2de7e6066a1d2f0a2d8c)
+
 [Processing入門](https://hackmd.io/@CNSUW3DuRZmqmeHSm_mZwQ/S16n92Zjx?type=view)
 
+#### □TechTrain
 以下のようなサービスもあります。
 やるかどうかは任せます。
 
