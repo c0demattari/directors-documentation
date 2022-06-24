@@ -126,6 +126,9 @@ Processing をやろう
 - [Processing + VSCodeの環境構築 - Qiitaの記事](https://qiita.com/fztkm/items/2de7e6066a1d2f0a2d8c)
   まずはこのページに従って環境構築をしましょう！
 
+- [Processing チュートリアル一覧 | P5 Code School](https://p5codeschool.net/tutorial/)
+  このサイトを参考にProcessing勉強を進めていきましょう！
+
 - [Processing入門](https://hackmd.io/@CNSUW3DuRZmqmeHSm_mZwQ/S16n92Zjx?type=view)
   このサイトに従ってプログラミングを始めてみましょう！
 
