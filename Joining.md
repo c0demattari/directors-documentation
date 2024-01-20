@@ -17,7 +17,8 @@
 - ボイスチャンネルとテキストチャンネルがある
 - カテゴリによって、チャンネルが分類されている
 
-<u>重要な連絡を見逃さないように、[**PC**/**スマホ**にソフト/アプリ](https://discord.com/download)をインストールしておこう!!</u>
+<u>重要な連絡を見逃さないように、[**PC**/**スマホ**にソフト/アプリ](https://discord.com/download)をインストールしておこう!!</u><br>
+また通知は有効にしておいてください！(必要ないチャンネルはミュートできます)
 
 #### Discordの使用用途
 - プロジェクトの話し合い
@@ -35,7 +36,7 @@
 - **一般**: 連絡などをする場所
 - **サーバー管理**: Discordサーバーの参加通知などをする場所
 - **自由&遊び**: 雑談や遊びのための場所
-- **2023年度新入生用**: 新入生のためのプロジェクトをまとめた場所
+- **2024年度新入生用**: 新入生のためのプロジェクトをまとめた場所
 - **技術**: それぞれの技術についての話題を話したり、共有したりする場所
 - **もくもく会**: 作業通話、もくもく会をする場所
 
@@ -51,7 +52,7 @@
 
 - **雑談**: 部の活動とは関係のないことについて話すチャンネル
 
-## 2. Slack
+## 2. Slack (廃止)
 
 ### Slackとは？
 
@@ -117,7 +118,7 @@
 
 ## 5.チュートリアル
 
-5月(もしくは6月)までは、
+6月までは、
 
 ### □ Processing
 Processing をやろう
@@ -126,19 +127,24 @@ Processing をやろう
   - Java言語がベース
   - 簡単にグラフィックを描くことができる
   - 単純なコマンドラインアプリケーションとは異なり、視覚的にプログラミングを楽しむことができるので、初心者の方にオススメ！
-  
+- [Processing チュートリアル一覧 | P5 Code School](https://web.archive.org/web/20220521194827/https://p5codeschool.net/tutorial/
+)のChapterを進めてください。また各Chapter毎にマイルストーンを設定していますので、マイルストーンの回答・実行結果・ソースコードをDiscordのスレッドに貼ってください。
 
 #### 参考ページ
 
-- [Processing + VSCodeの環境構築 - Qiitaの記事](https://qiita.com/fztkm/items/2de7e6066a1d2f0a2d8c)
-  まずはこのページに従って環境構築をしましょう！
+- [Processing + VSCodeの環境構築 - Qiitaの記事](https://qiita.com/fztkm/items/2de7e6066a1d2f0a2d8c)<br>
+    まずはこのページに従って環境構築をしましょう！
 
-- [Processing チュートリアル一覧 | P5 Code School](https://p5codeschool.net/tutorial/)
-  このサイトを参考にProcessing勉強を進めていきましょう！
+- [Processing チュートリアル一覧 | P5 Code School](https://p5codeschool.net/tutorial/)<br>
+    このサイトを参考にProcessing勉強を進めていきましょう！<br>
+      ※リンク切れのため、[アーカイブ](https://web.archive.org/web/20220521194827/https://p5codeschool.net/tutorial/
+)をご覧ください。
 
-- [Processing入門](https://hackmd.io/@CNSUW3DuRZmqmeHSm_mZwQ/S16n92Zjx?type=view)
-  このサイトに従ってプログラミングを始めてみましょう！
+- [Processing入門](https://hackmd.io/@CNSUW3DuRZmqmeHSm_mZwQ/S16n92Zjx?type=view)<br>
+    このサイトに従ってプログラミングを始めてみましょう！
 
+- [Reference / Processing.org](https://processing.org/reference/)<br>
+    公式リファレンス。関数や変数の詳細が知れる。
 ### □ TechTrain
 以下のようなサービスもあります。
 やるかどうかは任せます。
@@ -161,12 +167,15 @@ TechTrainというサービスのRailway
 - 内容
   - 役員からの連絡
   - プロジェクトの進捗報告
+- 2週間くらい前には告知したいです。
 ### 行事
-残念ながら状況を鑑みて、2020, 2021年度は実施していません
+残念ながら状況を鑑みて、2020, 2021, 2022, 2023年度は実施していません(ノウハウの消失もあって)
 
 - 新歓BBQ (5月上旬)
 - 夏合宿 (9月中旬)
 - 忘年会 (12月下旬)
+
+代わりにハッカソン、LT会、先輩たちからのお話を聞ける会など、様々なイベントを開催しています。
 
 ## 7. 部室・部則
 ### 部室
