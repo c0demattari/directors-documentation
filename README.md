@@ -15,7 +15,8 @@ C0de部の運営のための文書。
     - プレゼン & 出展 @NITech Hall 1F & 2F
 - 技術系団体合同説明会
 - ~~生協学生委員会新入生歓迎企画~~
-- [入部手続き](JoiningDescription.md)
+- [入部手続き](Joining.md)
+    - [運営向け 入部手続き等について](JoiningForDirectors.md)
 - [チュートリアル](Tutorial.md)
 - ~~[新歓BBQ](WelcomeBBQ.md)~~
 ### 5月
