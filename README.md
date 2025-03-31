@@ -43,7 +43,10 @@ C0de部の運営のための文書。
 
 ## 各書類について
 - [デザイン(Design.md)](Design.md): ロゴ、ビラ、パーカー
-- [joining-slide](./joining-slide): 新年度初回の部会スライド
+- [入部手続き](Joining.md)
+    - [運営向け 入部手続き等について](JoiningForDirectors.md)
+- [チュートリアル](Tutorial.md)
+- ~~[joining-slide](./joining-slide): 新年度初回の部会スライド~~
 - [部会](Meeting.md): 部会の説明
 
 ## 松尾先生へのアポの取り方
